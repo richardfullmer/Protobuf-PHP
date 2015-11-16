@@ -16,7 +16,7 @@
     "require"    : {
         "php"                : ">=5.5.0",
         "ext-mbstring"       : "*",
-        "phpoption/phpoption": "1.4.*",
+        "phpoption/phpoption": "~1.4",
         "symfony/console"    : "2.*"
     },
     "require-dev": {
